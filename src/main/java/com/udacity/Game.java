@@ -151,6 +151,7 @@ public class Game {
     public String checkGameWinner(char [][]grid){
         String result = "None";
         //Student code goes here ...
+        /// komentarz testowy
 
         Character[] symbol = {'x','o'};
         String [] info = {"X wins", "O wins"};
